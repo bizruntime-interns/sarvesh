@@ -1,0 +1,6 @@
+C:\Users\sarve\source\repos\hastable\hastable\bin\Debug\hastable.exe.config
+C:\Users\sarve\source\repos\hastable\hastable\bin\Debug\hastable.exe
+C:\Users\sarve\source\repos\hastable\hastable\bin\Debug\hastable.pdb
+C:\Users\sarve\source\repos\hastable\hastable\obj\Debug\hastable.csprojAssemblyReference.cache
+C:\Users\sarve\source\repos\hastable\hastable\obj\Debug\hastable.exe
+C:\Users\sarve\source\repos\hastable\hastable\obj\Debug\hastable.pdb

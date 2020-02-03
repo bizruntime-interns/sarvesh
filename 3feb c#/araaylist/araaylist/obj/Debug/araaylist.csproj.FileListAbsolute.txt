@@ -1,0 +1,6 @@
+C:\Users\sarve\source\repos\araaylist\araaylist\bin\Debug\araaylist.exe.config
+C:\Users\sarve\source\repos\araaylist\araaylist\bin\Debug\araaylist.exe
+C:\Users\sarve\source\repos\araaylist\araaylist\bin\Debug\araaylist.pdb
+C:\Users\sarve\source\repos\araaylist\araaylist\obj\Debug\araaylist.csprojAssemblyReference.cache
+C:\Users\sarve\source\repos\araaylist\araaylist\obj\Debug\araaylist.exe
+C:\Users\sarve\source\repos\araaylist\araaylist\obj\Debug\araaylist.pdb

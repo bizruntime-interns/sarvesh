@@ -1,0 +1,6 @@
+C:\Users\sarve\source\repos\stack\stack\bin\Debug\stack.exe.config
+C:\Users\sarve\source\repos\stack\stack\bin\Debug\stack.exe
+C:\Users\sarve\source\repos\stack\stack\bin\Debug\stack.pdb
+C:\Users\sarve\source\repos\stack\stack\obj\Debug\stack.csprojAssemblyReference.cache
+C:\Users\sarve\source\repos\stack\stack\obj\Debug\stack.exe
+C:\Users\sarve\source\repos\stack\stack\obj\Debug\stack.pdb
