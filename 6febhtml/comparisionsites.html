@@ -1,0 +1,58 @@
+<html>
+<head>
+<script>
+
+var url = 'https://www.amazon.com/';
+
+function func1(url, callback) {
+  var xhr = new XMLHttpRequest();
+
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState === 4) {
+      document.getElementById("amazon").innerHTML=xhr.responseURL;
+
+    }
+  }
+
+  xhr.open('GET', url, true);
+  xhr.send();
+}
+
+
+</script>
+<style type="text/css">
+#container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+#leftThing {
+  width: 25%;
+  background-color: blue;
+}
+#content {
+  width: 50%;
+  background-color: green;
+}
+#rightThing {
+  width: 25%;
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+<div id="container">
+    <div id="leftThing">
+    <button id="amazon" type="button" onclick="func1()">click here for search for amazon</button>
+    
+    </div>
+    <div id="content">
+    <button id="shopclues" type="button" onclick="func2()">click here for search for shopclues</button>
+    </div>
+    <div id="rightThing">
+    <button id="flipkart" type="button" onclick="func3()">click here for flipkart</button>
+    
+    </div>
+</div>
+</body>
+</html>
